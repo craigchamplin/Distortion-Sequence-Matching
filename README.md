@@ -5,7 +5,7 @@
 
 # Contents
 
-Code is Python in the form of Jupyter notebooks
+Code is Python in the form of Jupyter notebooks. GitHub has a python notebook viewer builtin.  Click on the files to see the rendered form, complete with graphs.
 
 * `Inductive Algorithm.ipynb` - Inductive algorithm
 
