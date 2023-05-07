@@ -1,5 +1,11 @@
 # Distortion Sequence Matching
- Code and data supporting the paper "Distortion-guided sequence matching for comparing pipeline inspections", AGPL-3.0-or-later
+Code and data supporting the paper "Deterministic Sequence Matching for Pipeline Inspection Run Comparisons" in the *International Journal of Pressure Vessels and Piping*
+
+**By:** Craig L. Champlin (cchampli@mines.edu) and Salman Mohagheghi
+
+**of:** The Colorado School of Mines in Golden, Colorado, USA
+
+License: AGPL-3.0-or-later
 
 
 
